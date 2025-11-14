@@ -1,6 +1,6 @@
 ## 👋🏻 Introducing Myself
 
-I am Shery—an analyst with a background in design and early childhood education who now works on understanding problems through data. I focus on turning real questions into structured analysis, finding the patterns that explain what is happening, and building clear visuals that help others make decisions. My approach is simple: understand the problem, structure the data, answer the question, and communicate the insight.
+I am Shery, an analyst with a background in design and early childhood education who now works on understanding problems through data. I focus on turning real questions into structured analysis, finding the patterns that explain what is happening, and building clear visuals that help others make decisions. My approach is simple: understand the problem, structure the data, answer the question, and communicate the insight.
 
 ### 📊 What I Do
 - Clean, transform, and structure data for accurate analysis  
