@@ -4,7 +4,7 @@ I am Shery, an analyst with a background in design and early childhood education
 
 ### 📊 What I Do
 - Clean, transform, and structure data for accurate analysis  
-- Investigate datasets to answer real questions and uncover patterns  
+- Investigate datasets to answer real questions and uncover patterns and trends 
 - Build visualizations that explain results clearly and without noise  
 - Create organized analytical workflows and relational data structures  
 - Connect data findings back to the practical impact they represent  
