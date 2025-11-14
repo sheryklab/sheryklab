@@ -21,25 +21,9 @@ A relational task-tracking system built around structure, logic, and progress tr
 *Designed around data consistency, user behavior, and clear progress communication.*
 
 ### 🛠️ Tools I Use
-- **SQL**  
-- **MySQL**, **BigQuery**  
-- **Power BI**, **Looker Studio**  
-
-### 🤝🏼 Connect
-**LinkedIn:** https://www.linkedin.com/in/shery-khedr
-### 🔎 Recent Work
-**Alberta Childcare Oversight Dashboard**  
-A full analysis of provincial inspections, compliance trends, and enforcement data.
-
-**Chores Quest**  
-A relational task-tracking system designed around structure, logic, and progress tracking.  
-
-*I keep expanding these projects to improve both the analytical depth and the storytelling behind the visuals.*
-
-### 🛠️ Tools
-- SQL  
-- MySQL, BigQuery  
-- Power BI, Looker Studio  
+- SQL 
+- MySQL, BigQuery 
+- Power BI, Looker Studio 
 
 ### 🤝🏼 Connect
 **LinkedIn:** https://www.linkedin.com/in/shery-khedr
