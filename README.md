@@ -19,11 +19,6 @@ A relational task-tracking system designed around structure, logic, and progress
 
 *I keep expanding these projects to improve both the analytical depth and the storytelling behind the visuals.*
 
-### 📚 Growing My Skills In
-- Data modeling and database structure  
-- Visualization design and communication  
-- Analytical thinking with real-world datasets  
-
 ### 🛠️ Tools
 - SQL  
 - MySQL, BigQuery  
