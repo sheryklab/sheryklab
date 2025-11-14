@@ -23,7 +23,8 @@ A relational task-tracking system built around structure, logic, and progress tr
 ### 🛠️ Tools I Use
 - SQL 
 - MySQL, BigQuery 
-- Power BI, Looker Studio 
+- Power BI, Looker Studio
+- Excel, Power Query
 
 ### 🤝🏼 Connect
 **LinkedIn:** https://www.linkedin.com/in/shery-khedr
