@@ -1,15 +1,32 @@
 ## 👋🏻 Introducing Myself
 
-Hello, I am Shery. I come from a background in design and early childhood education, and I am now moving into data analysis with a focus on clarity, structure, and practical problem-solving. I am interested in how data can reveal patterns, explain behaviour, and improve everyday systems. I work by combining analysis, visualization, and careful organization to create outcomes that make sense.
+I am Shery—an analyst with a background in design and early childhood education who now works on understanding problems through data. I focus on turning real questions into structured analysis, finding the patterns that explain what is happening, and building clear visuals that help others make decisions. My approach is simple: understand the problem, structure the data, answer the question, and communicate the insight.
 
 ### 📊 What I Do
-- Transform and validate data to make it ready for analysis  
-- Explore datasets to resolve questions, test assumptions, and surface insights  
-- Build visualizations that present information clearly and logically  
-- Create structured analytical workflows and relational data models  
+- Clean, transform, and structure data for accurate analysis  
+- Investigate datasets to answer real questions and uncover patterns  
+- Build visualizations that explain results clearly and without noise  
+- Create organized analytical workflows and relational data structures  
+- Connect data findings back to the practical impact they represent  
 
-I like projects where the goal is to understand a problem, not just display charts.
+I prefer projects where the goal is clarity, not complexity.
 
+### 🔎 Recent Work
+**Alberta Childcare Oversight Dashboard**  
+An end-to-end analysis of provincial inspections, compliance trends, and enforcement activity.  
+*This project combines domain knowledge with data modeling, DAX measures, structured visuals, and real policy questions.*
+
+**Chores Quest (Web App)**  
+A relational task-tracking system built around structure, logic, and progress tracking for children and families.  
+*Designed around data consistency, user behavior, and clear progress communication.*
+
+### 🛠️ Tools I Use
+- **SQL**  
+- **MySQL**, **BigQuery**  
+- **Power BI**, **Looker Studio**  
+
+### 🤝🏼 Connect
+**LinkedIn:** https://www.linkedin.com/in/shery-khedr
 ### 🔎 Recent Work
 **Alberta Childcare Oversight Dashboard**  
 A full analysis of provincial inspections, compliance trends, and enforcement data.
