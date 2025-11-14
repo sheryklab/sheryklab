@@ -3,10 +3,10 @@
 Hello, I am Shery. I come from a background in design and early childhood education, and I am now moving into data analysis with a focus on clarity, structure, and practical problem-solving. I am interested in how data can reveal patterns, explain behaviour, and improve everyday systems. I work by combining analysis, visualization, and careful organization to create outcomes that make sense.
 
 ### 📊 What I Do
-- Clean, transform, and structure data so it can be understood  
-- Explore datasets to find patterns and meaningful insights  
-- Build visualizations that communicate information clearly  
-- Create organized analytical workflows and relational structures  
+- Transform and validate data to make it ready for analysis  
+- Explore datasets to resolve questions, test assumptions, and surface insights  
+- Build visualizations that present information clearly and logically  
+- Create structured analytical workflows and relational data models  
 
 I like projects where the goal is to understand a problem, not just display charts.
 
